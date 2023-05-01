@@ -6,4 +6,6 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
+<img align="center" height="300" width="400" src="https://cdn.discordapp.com/attachments/1102560548069060640/1102653888257081354/image.png">
+
 ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
