@@ -14,7 +14,7 @@
 ###
 <div align="center">
   <a href="https://github.com/cyberGusx">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberGusx&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberGusx&theme=tokyonight&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
