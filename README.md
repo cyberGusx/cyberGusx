@@ -7,6 +7,13 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
+<toplang align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=BunBismuth&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+
 <div align="center">
 <img align="center" height="300" width="400" src="https://cdn.discordapp.com/attachments/1102560548069060640/1102653888257081354/image.png">
   <img align="center" height="300" width="400" src="https://cdn.discordapp.com/attachments/1102560548069060640/1102663413555023912/image-removebg-preview.png">
