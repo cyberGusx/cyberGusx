@@ -1,6 +1,12 @@
 # Oi, sou o Gustavo estudante de tecnologia!
 
 
+<div align="center">
+  <a href="https://github.com/duribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
 <div align="center" valign="top"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
