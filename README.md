@@ -8,22 +8,6 @@
 </div><br>
 
 
-<toplang align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=cyberGusx&show_icons=true&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=cyberGusx&show_icons=true"
-      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-    />
-    <img src="github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=cyberGusx&show_icons=true" />
-  </picture>     
-</toplang>
-
-
-
 <div align="center">
 <img align="center" height="300" width="400" src="https://cdn.discordapp.com/attachments/1102560548069060640/1102653888257081354/image.png">
   <img align="center" height="300" width="400" src="https://cdn.discordapp.com/attachments/1102560548069060640/1102663413555023912/image-removebg-preview.png">
