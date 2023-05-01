@@ -1,9 +1,9 @@
 # Oi, sou o Gustavo estudante de tecnologia!
 
 
-<div align="center">
-  <a href="https://github.com/duribeiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+<div>
+  <a href="https://github.com/cyberGusx">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberGusx&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
