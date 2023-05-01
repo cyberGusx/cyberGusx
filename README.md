@@ -1,4 +1,4 @@
-# Oi, sou o Gustavo estudante de tecnologia!
+# Oi, sou o Gustavo estudante de tecnologia! 🐍
 
 
 
