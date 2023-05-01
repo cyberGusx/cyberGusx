@@ -9,6 +9,7 @@
 
 <div align="center">
 <img align="center" height="300" width="400" src="https://cdn.discordapp.com/attachments/1102560548069060640/1102653888257081354/image.png">
+  <img align="center" height="300" width="400" src="https://cdn.discordapp.com/attachments/1102560548069060640/1102663413555023912/image-removebg-preview.png">
 </div>
 
 ###
