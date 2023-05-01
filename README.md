@@ -10,7 +10,7 @@
 
 <div align="center">
 <img align="center" height="300" width="400" src="https://cdn.discordapp.com/attachments/1102560548069060640/1102653888257081354/image.png">
-  <img align="center" height="300" width="400" src="https://cdn.discordapp.com/attachments/1102560548069060640/1102663413555023912/image-removebg-preview.png">
+  <img align="center" height="300" width="400" src="https://occ-0-58-32.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABWuydyd0Bhb1W1C8bPq-Ra5LknvKuZUrA3MVVo4q9W1NiZGXugetohoAXYLqsCo73PUNXxGP0nSCkS_vwEca2g0H5sBiYoMSlKLR.jpg?r=366">
 </div>
 
 ###
